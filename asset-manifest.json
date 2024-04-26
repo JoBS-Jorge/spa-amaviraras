@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/spa-amaviraras/static/css/main.a4e14959.css",
+    "main.js": "/spa-amaviraras/static/js/main.8d2ebf54.js",
+    "static/media/mãe-e-menina.png": "/spa-amaviraras/static/media/mãe-e-menina.37f64fdda69514ab67b7.png",
+    "static/media/logo-amavi-horizontal.svg": "/spa-amaviraras/static/media/logo-amavi-horizontal.3b2b48cef9ebde76299880a346bd30a7.svg",
+    "index.html": "/spa-amaviraras/index.html",
+    "static/media/phone.svg": "/spa-amaviraras/static/media/phone.22904118b466d50710a6927da97da9cf.svg",
+    "static/media/arrow-left-circle.svg": "/spa-amaviraras/static/media/arrow-left-circle.8811f7480ff7ba33ca029686a68ef0b2.svg",
+    "static/media/tag.svg": "/spa-amaviraras/static/media/tag.00341c400f8266a201fd9150eafe62dc.svg",
+    "static/media/mail.svg": "/spa-amaviraras/static/media/mail.eee1baa73917a6ad8cc5ab655510875a.svg",
+    "static/media/unlock.svg": "/spa-amaviraras/static/media/unlock.48d2d175e232a9c4585ffed18a8ad9df.svg",
+    "static/media/user.svg": "/spa-amaviraras/static/media/user.780a52a3688dd2fd0230fe4949982dd5.svg",
+    "static/media/search.svg": "/spa-amaviraras/static/media/search.f9705ffe407455bd10ed6827af98d123.svg",
+    "main.a4e14959.css.map": "/spa-amaviraras/static/css/main.a4e14959.css.map",
+    "main.8d2ebf54.js.map": "/spa-amaviraras/static/js/main.8d2ebf54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4e14959.css",
+    "static/js/main.8d2ebf54.js"
+  ]
+}

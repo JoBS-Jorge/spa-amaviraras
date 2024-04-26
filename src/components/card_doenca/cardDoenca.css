@@ -1,0 +1,125 @@
+.main-content > a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.main-content > h1 {
+    color: #ffffff;
+    padding: 1.2em 0;
+}
+
+.main-content > h1 > a {
+    color: #ffffff;
+}
+
+.main-content > p {
+    color: #ffffff;
+}
+
+.main-content > span {
+    color: white;
+}
+
+.card-container {
+    width: 100%;
+    max-width: 400px;
+    height: 800px;
+    margin: 2em auto;
+    background-color: #580296;
+    border-radius: 15px;
+    margin-bottom: 1rem;
+    padding: 2rem;
+    filter: drop-shadow(1px 1px 8px #000000)
+}
+
+.image-container {
+    position: relative;
+    display: block;
+}
+
+.image-doenca{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 15px;
+}
+
+.card-adicional-infos {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: left;
+}
+
+.card-adicional-infos_sintomas, .card-adicional-infos_tratamento, .card-attribute {
+    display: flex;
+    align-items: center;
+    padding: 1em 0;
+}
+
+.card-attribute {
+    padding-bottom: 1.5em;
+    border-top: 2px solid var(--var-line-dark);
+}
+
+.card-attribute > p > span > a{
+    color: #ffffff;
+}
+
+/* Details */
+
+img.eye {
+    position: absolute;
+    width: 100%;
+    max-width: 2em;
+    top: 44%;
+    left: 43%;
+}
+
+@media (min-width:400px) {
+    img.eye {
+        max-width: 3em;
+    }
+}
+
+.image-container::after {
+    content: '';
+    background-image: url("https://i.postimg.cc/9MtT4GZY/view.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 5rem;
+    background-color: hsla(178, 100%, 50%, 0.3);
+    width: 100%;
+    height: 100%;
+    border-radius: 1rem;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: block;
+    z-index: 2;
+    opacity: 0;
+    transition: opacity 0.3s ease-out;
+}
+
+.image-container:hover::after {
+  opacity: 1;
+}
+
+.small-image {
+    width: 2.5em;
+    margin-right: .5em;
+}
+
+.small-avatar {
+    width: 3em;
+    border-radius: 200px;
+    outline: 2px solid white;
+    margin-right: 1.4em;
+}
+
+
+@media (min-width:600px) {
+    body {
+        font-size: 18px;
+    }
+}

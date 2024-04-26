@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.page_container{
+    margin-left: 9vw;
+    margin-right: 9vw;
+    width: 80vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+
+.card_container{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-item: center;
+
+    padding: 80px 40px;
+    background: #580296;
+    width: 40%;
+    height: 600px;
+    border-radius: 36px;
+    margin-top: 10px;
+}
+
+.informations{
+    margin-top: 10px;
+    text-decoration: none;
+    color: #BC64FC;
+}

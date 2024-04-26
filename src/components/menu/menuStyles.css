@@ -1,0 +1,53 @@
+.navBar_conteiner{
+    background-color: #ffffff;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    padding: 26px;
+    height:  2rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.navBar_conteiner > div {
+    width: 20%;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.navBar_descriptions{
+    margin-left: 10px;
+
+    font-size: 16px;
+    color: #580296;
+}
+
+.navBar_leftSide_link{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items:center;
+    
+    cursor: pointer;
+}
+
+.navBar_rightSide_link{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items:center;
+        
+    cursor: pointer;
+}
+
+.navBar_conteiner > div > a{
+    text-decoration: none;
+}
+
+.navBar_center > a > img{
+    width: 80%;
+}

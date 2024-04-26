@@ -1,0 +1,214 @@
+{
+  "doencas": [
+    {
+      "id": 1,
+      "name": "Lúpus Eritematoso",
+      "image": "https://web9.unl.edu.ar/noticias/img/thumbs/news/18490/Lupus_vga.jpg",
+      "description": "Doenças auto-imunes do lúpus eritematoso que se manifestam na pele com eritema e inflamação.",
+      "symptoms": "Dores, bolhas e outras manifestações",
+      "treatment": true,
+      "type": "Não genética"
+    },
+    {
+      "id": 2,
+      "name": "Fibrose Cística",
+      "image": "https://media.starlightcms.io/workspaces/pague-menos/portal-sempre-bem/optimized/o-que-e-fibrose-cistica-hvefme5zin.jpeg",
+      "description": "Doença genética que afeta principalmente os pulmões e o sistema digestivo, causando produção excessiva de muco.",
+      "symptoms": "Tosse crônica, infecções respiratórias frequentes, dificuldade na digestão.",
+      "treatment": true,
+      "type": "Genética"
+    },
+    {
+      "id": 3,
+      "name": "Esclerose Lateral Amiotrófica (ELA)",
+      "image": "https://www.psicologia.pt/artigos/images/ng5623000.jpg",
+      "description": "Doença neurodegenerativa que afeta as células nervosas no cérebro e na medula espinhal, levando à perda de habilidades motoras.",
+      "symptoms": "Fraqueza muscular, dificuldade de fala e deglutição.",
+      "treatment": false,
+      "type": "Não genética"
+    },
+    {
+      "id": 4,
+      "name": "Síndrome de Ehlers-Danlos",
+      "image": "https://www.doctorponce.com/wp-content/uploads/2017/07/sindrome.jpg",
+      "description": "Conjunto de doenças genéticas que afetam o tecido conjuntivo, resultando em pele elástica e articulações flexíveis.",
+      "symptoms": "Hipermobilidade articular, pele hiperextensível.",
+      "treatment": true,
+      "type": "Genética"
+    },
+    {
+      "id": 5,
+      "name": "Doença de Huntington",
+      "image": "https://fonoaudiologafabiana.com.br/wp-content/uploads/2023/06/imagem-site-e1686773922174.jpg",
+      "description": "Distúrbio genético progressivo que afeta o cérebro, causando deterioração das funções cognitivas e motoras.",
+      "symptoms": "Movimentos involuntários, alterações de personalidade, declínio cognitivo.",
+      "treatment": false,
+      "type": "Genética"
+    },
+    {
+      "id": 6,
+      "name": "Síndrome de Guillain-Barré",
+      "image": "https://cdn.unotv.com/images/2023/07/peru-en-alerta-declaran-emergencia-de-90-dias-por-brote-de-sindrome-de-guillain-barre-193336.jpg",
+      "description": "Doença autoimune que afeta o sistema nervoso periférico, levando a fraqueza muscular e, em casos graves, paralisia.",
+      "symptoms": "Fraqueza muscular, formigamento, dificuldade respiratória.",
+      "treatment": true,
+      "type": "Não genética"
+    },
+    {
+      "id": 7,
+      "name": "Síndrome de Rett",
+      "image": "https://portalnorte.com.br/wp-content/uploads/2022/10/sindrome-rett-divulgacao-opas.jpg",
+      "description": "Transtorno do neurodesenvolvimento que afeta principalmente as meninas, causando perda de habilidades motoras e sociais.",
+      "symptoms": "Perda de coordenação, movimentos repetitivos das mãos.",
+      "treatment": true,
+      "type": "Não genética"
+    },
+    {
+      "id": 8,
+      "name": "Síndrome de Marfan",
+      "image": "https://www.webconsultas.com/sites/default/files/styles/wc_adaptive_image__small/public/temas/sindrome-marfan_1.jpg",
+      "description": "Doença genética que afeta o tecido conjuntivo, resultando em altura elevada, braços e dedos alongados.",
+      "symptoms": "Estatura alta, braços e dedos alongados, problemas cardíacos.",
+      "treatment": false,
+      "type": "Genética"
+    },
+    {
+      "id": 9,
+      "name": "Esclerose Múltipla",
+      "image": "https://neurolife.com.br/wp-content/uploads/2020/08/EM-2.jpg",
+      "description": "Doença autoimune que afeta o sistema nervoso central, causando danos à mielina e interferindo na comunicação entre o cérebro e o corpo.",
+      "symptoms": "Fadiga, dificuldade de coordenação, problemas de visão.",
+      "treatment": false,
+      "type": "Não genética"
+    },
+    {
+      "id": 10,
+      "name": "Síndrome de Alport",
+      "image": "https://aeraparelhosauditivos.com.br/wp-content/uploads/2020/11/descubra-quais-sao-os-sintomas-dessa-doenca.jpg",
+      "description": "Doença genética que afeta os rins, ouvidos e olhos, levando a problemas renais e perda de audição.",
+      "symptoms": "Sangue na urina, perda auditiva progressiva.",
+      "treatment": false,
+      "type": "Genética"
+    },
+    {
+      "id": 11,
+      "name": "Doença de Fabry",
+      "image": "https://labnetwork.com.br/wp-content/uploads/2023/04/genetica_freepik.jpg",
+      "description": "Doença genética rara que afeta principalmente os rins, coração e sistema nervoso.",
+      "symptoms": "Dor nas mãos e nos pés, fadiga, problemas gastrointestinais.",
+      "treatment": true,
+      "type": "Genética"
+    },
+    {
+      "id": 12,
+      "name": "Síndrome de Dravet",
+      "image": "https://statics-cuidateplus.marca.com/cms/styles/natural/azblob/nina-epilepsia-dravet.jpg.webp?itok=YnUiiBnp",
+      "description": "Forma rara e grave de epilepsia que começa na infância, geralmente durante o primeiro ano de vida.",
+      "symptoms": "Convulsões frequentes, atraso no desenvolvimento, problemas de sono.",
+      "treatment": true,
+      "type": "Não genética"
+    },
+    {
+      "id": 13,
+      "name": "Síndrome de Moebius",
+      "image": "https://e02d45dd1a.cbaul-cdnwnd.com/5ba7591cb2f016d114cafe4fe050f7a2/200000007-89e8b8bde3/moebius1.JPG",
+      "description": "Condição congênita rara que afeta os nervos cranianos, causando paralisia facial e dificuldade de movimento ocular.",
+      "symptoms": "Falta de expressão facial, dificuldade de movimentar os olhos.",
+      "treatment": true,
+      "type": "Não genética"
+    },
+    {
+      "id": 14,
+      "name": "Hemoglobinúria Paroxística Noturna (HPN)",
+      "image": "https://www.femexer.org/wp-content/uploads/2016/07/Hemoglubina-nocturna-paroxistica.jpg",
+      "description": "Distúrbio raro do sangue em que os glóbulos vermelhos são destruídos mais rapidamente do que o normal.",
+      "symptoms": "Anemia, fadiga, dor abdominal.",
+      "treatment": true,
+      "type": "Não genética"
+    },
+    {
+      "id": 15,
+      "name": "Síndrome de Wolfram",
+      "image": "https://ars.els-cdn.com/content/image/1-s2.0-S0181551211001744-gr2.jpg",
+      "description": "Doença genética rara que afeta vários sistemas do corpo, incluindo diabetes insipidus, diabetes mellitus, atrofia óptica e surdez.",
+      "symptoms": "Diabetes, perda de visão, perda auditiva.",
+      "treatment": false,
+      "type": "Genética"
+    },
+    {
+      "id": 16,
+      "name": "Síndrome de Dandy-Walker",
+      "image": "https://image.slidesharecdn.com/sndromededandy-walker-141107045456-conversion-gate01/85/sndrome-de-dandy-walker-10-320.jpg",
+      "description": "Malformação congênita do cérebro que afeta principalmente a área que controla o equilíbrio e a coordenação dos movimentos.",
+      "symptoms": "Atraso no desenvolvimento, problemas de equilíbrio, aumento do tamanho do crânio.",
+      "treatment": true,
+      "type": "Não genética"
+    },
+    {
+      "id": 17,
+      "name": "Síndrome de Apert",
+      "image": "https://answers.childrenshospital.org/wp-content/uploads/2022/12/POS_27027_Joao-Jereissati-Blog_Photo-5.jpg",
+      "description": "Condição genética que afeta o desenvolvimento craniofacial e esquelético, causando características distintas no rosto e nas mãos.",
+      "symptoms": "Cabeça anormalmente moldada, dedos fundidos, problemas respiratórios.",
+      "treatment": true,
+      "type": "Genética"
+    },
+    {
+      "id": 18,
+      "name": "Síndrome de Turner",
+      "image": "https://aparecidams.com.br/images/noticias/2038/35d3c3a7562a1738e35fa7b9e743a422.jpg",
+      "description": "Condição genética que afeta o desenvolvimento sexual em mulheres, resultando em baixa estatura e problemas de fertilidade.",
+      "symptoms": "Baixa estatura, pescoço curto, falta de desenvolvimento sexual secundário.",
+      "treatment": true,
+      "type": "Genética"
+    },
+    {
+      "id": 19,
+      "name": "Síndrome de Angelman",
+      "image": "https://olmitos.com/img/ybc_blog/post/angelman.jpg",
+      "description": "Doença genética que afeta o sistema nervoso, causando atraso no desenvolvimento, problemas de movimento e distúrbios do sono.",
+      "symptoms": "Riso e sorriso frequentes, atraso no desenvolvimento motor, distúrbios do sono.",
+      "treatment": true,
+      "type": "Genética"
+    },
+    {
+      "id": 20,
+      "name": "Síndrome de Proteus",
+      "image": "https://static.tuasaude.com/media/article/wd/my/sindrome-de-proteus_7945_l.jpg",
+      "description": "Condição genética que causa crescimento excessivo de tecidos, resultando em deformidades esqueléticas e crescimento desigual dos membros.",
+      "symptoms": "Crescimento exagerado de partes do corpo, tumores, anomalias ósseas.",
+      "treatment": false,
+      "type": "Genética"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Jorge Braz de Souza Filho",
+      "email": "jorge.not@gmail.com",
+      "password": "123456",
+      "access": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Ellen Galvão Albuquerque",
+      "email": "contatoellengalvao@gmail.com",
+      "password": "123456",
+      "access": "admin"
+    },
+    {
+      "id": 3,
+      "name": "Ludo Braz Galvão",
+      "email": "ludo@gmail.com",
+      "password": "123456",
+      "access": "admin"
+    },
+    {
+      "id": "5a5b",
+      "name": "Rosangela Alves Braga",
+      "email": "robraga!gmail.com",
+      "password": "123456",
+      "access": "admin"
+    }
+  ]
+}
